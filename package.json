@@ -1,0 +1,19 @@
+{
+  "name": "attachment-mock",
+  "version": "0.0.1",
+  "description": "Mock attachment service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-rkuustera:rkuustera/attachment-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
